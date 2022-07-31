@@ -1,1 +1,1 @@
-# pokedex
+Pokedex é um estudo sobre consumo de API, utilizei a API do Pokemon, a ideia era consumir e mostrar os pokemons em cards, para isso utilizei o bootstrap e fiz o sistema de uma forma bem básica com padrão mvc, futuramente o projeto poderá sofrer melhorias.
